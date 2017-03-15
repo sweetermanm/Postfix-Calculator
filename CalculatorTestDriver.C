@@ -13,7 +13,7 @@ string main () {
   Stack slop;
   Queue plop;
   // Get the user's intention
-  cout << "Enter Expression:";
+  cout << "Enter Expression: ";
   cin >> response;
 
   main();
